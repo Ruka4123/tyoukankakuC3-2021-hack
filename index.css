@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     /*↓ここ*/
+    background-color: aqua;
 }
 
 .self-sheet {
@@ -10,6 +11,7 @@ body {
     height: 1390px;
     overflow: hidden;
     /*↓ここ*/
+    background-color: aquamarine;
 }
 
 .intro1, .intro2, .intro3 {
@@ -17,6 +19,8 @@ body {
     width: 50%;
     height: 100%;
     /*↓ここ*/
+    background-image: url(C3logo.png);
+    background-size: 500px;
 }
 
 .intro1 {
